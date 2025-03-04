@@ -90,7 +90,7 @@ O projeto está organizado da seguinte forma:
 
 ### Deploy no Render
 
-O deploy da API foi realizado no Render utilizando um Dockerfile. Link da API: [Spring API - To-Do List](https://spring-todolist-nrox.onrender.com)
+O deploy da API foi realizado no Render utilizando um Dockerfile. URL da API: https://spring-todolist-nrox.onrender.com
 
 ## Contribuição
 
